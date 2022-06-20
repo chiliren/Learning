@@ -1,2 +1,5 @@
 # Learning
 learning...
+
+## ubuntu
+.vimrc
